@@ -7,7 +7,7 @@ This project consists of a website focused on book storage (a home library) is a
 Este projeto consiste em um site voltado para estoque de livros (uma biblioteca caseira) é uma plataforma online onde o usuário podem gerenciar e organizar suas coleções pessoais de livros. Essa plataforma permite que os amantes de livros mantenham registro de todos os livros que possuem. 
 
 ### Getting Started/Como começar
-`yarn dev`
+`yarn start:dev`
 
 ### ⚠️ THIS PROJECT IS IN DEVELOPMENT... ⚠️
 ### ⚠️ ESTE PROJETO ESTÁ EM DESENVOLVIMENTO... ⚠️
