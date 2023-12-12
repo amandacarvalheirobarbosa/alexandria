@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Library",
+  title: "Alexandria",
   description: "Management for your books",
 };
 
@@ -20,7 +20,7 @@ export default function RootLayout({
     <html lang="pt-BR">
       <body className={inter.className}>
         <div className="flex flex-col h-screen w-screen justify-between">
-          <NavBar name="Library" />
+          <NavBar name="Alexandria" />
           {children}
           <Footer />
         </div>
